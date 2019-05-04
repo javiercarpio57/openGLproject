@@ -1,0 +1,18 @@
+Las teclas que puede utilizar son:
+	--> Flecha izquierda: Girar el modelo en sentido horario.-
+	--> Flecha derecha: Girar el modelo en sentido antihorario.
+	--> Flecha arriba: Subir la vista.
+	--> Flecha abajo: Bajar la vista.
+	--> Tecla W: Convertir el modelo un renderizado de lineas.
+	--> Tecla f: Convertir el modelo un renderizado normal.
+	--> Tecla p: Convertir el modelo un renderizado de puntos.
+	--> Tecla +: Realizar zoom-in al modelo.
+	--> Tecla -: Realizar zoom-out al modelo.
+	--> Tecla l: Subir la intensidad de la luz.
+	--> Tecla d: Bajar la intensidad de la luz.
+	--> Tecla r: Subir el valor R del conjunto RGB.
+	--> Tecla g: Subir el valor G del conjunto RGB.
+	--> Tecla b: Subir el valor B del conjunto RGB.
+	--> Tecla o: Regresar el color a lo original.
+	--> Teclas numericas del 1 al 8: Posicionar la luz en diferentes puntos (diferentes caras del modelo).
+
